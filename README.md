@@ -83,9 +83,9 @@ customer-behavior-analysis-excel-sql-powerbi-pandas/
 
 An interactive **Power BI dashboard** consolidates all findings — revenue by category, age group, gender, location, season, payment method, and shipping type — into a single decision-making view.
 
-![Dashboard_1](https://github.com/rohannn16/customer-behavior-analysis-excel-sql-powerbi-pandas/blob/main/Images/Screenshot%202026-05-04%20234243.png)
+![Dashboard_1](https://github.com/rohannn16/customer-behavior-analysis-excel-sql-powerbi-pandas/blob/main/Images/dashboard_1.png)
 
-![Dashboard_2](https://github.com/rohannn16/customer-behavior-analysis-excel-sql-powerbi-pandas/blob/main/Images/Screenshot%202026-05-04%20234316.png)
+![Dashboard_2](https://github.com/rohannn16/customer-behavior-analysis-excel-sql-powerbi-pandas/blob/main/Images/dashboard_2.png)
 
 ---
 
