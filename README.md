@@ -45,7 +45,7 @@ This analysis helps businesses:
 
 ---
 
-## 📁 Dataset Overview
+## 📁 Project Structure
 
 ```
 customer-behavior-analysis-excel-sql-powerbi-pandas/
