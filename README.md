@@ -4,6 +4,17 @@
 
 ---
 
+![Banner](https://github.com/rohannn16/customer-behavior-analysis-excel-sql-powerbi-pandas/blob/main/Images/Banner.png)
+
+## 🛠️ Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=excel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
 ## 📊 Key Metrics
 
 | Metric | Value |
@@ -55,6 +66,7 @@ customer-behavior-analysis-excel-sql-powerbi-pandas/
 |   ├── key_insights.pdf
 |
 ├── images/
+|   ├── Banner.png
 │   ├── dashboard_1.png
 │   ├── dashboard_2.png
 │   ├── dashboard_full_with_tool_1.png
@@ -86,13 +98,6 @@ An interactive **Power BI dashboard** consolidates all findings — revenue by c
 5. **Target Spring campaigns** — highest revenue season at $243K
 
 ---
-
-## 🛠️ Tech Stack
-
-![Excel](https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=excel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ## 📬 Contact Me
